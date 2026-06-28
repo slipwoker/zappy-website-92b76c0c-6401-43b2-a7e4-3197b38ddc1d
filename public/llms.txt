@@ -1,0 +1,104 @@
+# LOVE טאצ' — Generative Engine Optimization Map
+
+> An online ordering store specializing in squishies — soft, squeezable collectible toys popular among kids and teens. The business focuses on selling these fun, tactile products through a dedicated e-commerce or ordering platform.
+
+---
+
+## Pages
+
+### בית
+https://love-92b76c0c.zappy5.app
+גלו עולם קסום של סקווישי רך ומפנק לילדים ובני נוער. צעצועי אנטי סטרס איכותיים במשלוח מהיר עד הבית. היכנסו עכשיו להזמין את הסקווישי המושלם!
+
+### מדריך מתנות וטיפול
+https://love-92b76c0c.zappy5.app/gift-guide-care
+מתלבטים איזה סקווישי לבחור? מדריך המתנות והטיפים שלנו יהפוך אתכם למומחים. למדו איך לטפל בסקווישי ולשמור עליו רך לאורך זמן. כנסו עכשיו!
+
+### אודות
+https://love-92b76c0c.zappy5.app/about
+LOVE טאצ&#39; נולדה מאהבה לסקווישי ולחיוכים של ילדים. הכירו את המותג שמביא לכם את צעצועי האנטי סטרס הכי כיפיים בישראל. בואו לגלות את הסיפור!
+
+### צור קשר
+https://love-92b76c0c.zappy5.app/contact
+יש שאלה על סקווישי או רוצים המלצה אישית? צוות LOVE טאצ&#39; כאן בשבילכם! מלאו פרטים ונחזור אליכם במהירות עם כל התשובות. יאללה, מחכים לכם!
+
+### Products
+https://love-92b76c0c.zappy5.app/products
+המוצרים שלנו - LOVE טאצ'
+
+### Cart
+https://love-92b76c0c.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://love-92b76c0c.zappy5.app/checkout
+תשלום
+
+### Login
+https://love-92b76c0c.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://love-92b76c0c.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://love-92b76c0c.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://love-92b76c0c.zappy5.app/product/:slug
+פרטי המוצר - LOVE טאצ'
+
+### Category
+https://love-92b76c0c.zappy5.app/category/:slug
+מוצרים - LOVE טאצ'
+
+### תודה שפניתם אלינו | LOVE טאצ'
+https://love-92b76c0c.zappy5.app/thank-you
+LOVE טאצ' - תודה שפניתם אלינו | LOVE טאצ'
+
+## Legal & Policy
+
+### Privacy Policy
+https://love-92b76c0c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://love-92b76c0c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://love-92b76c0c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About LOVE טאצ'
+An online ordering store specializing in squishies — soft, squeezable collectible toys popular among kids and teens. The business focuses on selling these fun, tactile products through a dedicated e-commerce or ordering platform.
+
+## Target Audience
+- אספנים צעירים
+- הורים מחפשי מתנות
+- מחפשי הקלה ממתח
+
+## Industry
+E-commerce / Toys & Collectibles
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://love-92b76c0c.zappy5.app/sitemap.xml
+- Robots: https://love-92b76c0c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://love-92b76c0c.zappy5.app/llms-full.txt
+- Products (JSON): https://love-92b76c0c.zappy5.app/products.json
+- Products (Google Merchant RSS): https://love-92b76c0c.zappy5.app/product-feed.xml
